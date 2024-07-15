@@ -16,3 +16,4 @@ const styles = {
 
 export { styles };
 // min-[900px]:text-[60px] min-[900px] min-[750px]:text-[50px] xs:text-[30px] min-[500px]:text-[33px] min-[400px]:text-[26px] min-[550px]:text-[40px] text-[50px]
+// d
